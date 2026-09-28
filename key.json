@@ -29,7 +29,10 @@
     "DP-MUKG97": {
       "status": "approved",
       "max_devices": 2,
-      "expiry_date": "2026-09-30"
+      "expiry_date": "2026-09-30",
+      "hwid": [
+        "d89592bbacad68eb"
+      ]
     }
   }
 }
